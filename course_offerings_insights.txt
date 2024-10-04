@@ -1,0 +1,140 @@
+Departments with significant changes in course offerings:
+
+20: 2850.00% change (57 courses)
+  Possible reasons for increase:
+  - Growing demand and interest in the field
+  - Expansion of research and specializations
+  - Interdisciplinary collaborations and applications
+
+Unknown: 100.00% change (10 courses)
+  Possible reasons for increase:
+  - Growing demand and interest in the field
+  - Expansion of research and specializations
+  - Interdisciplinary collaborations and applications
+
+18: -58.74% change (-121 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+12: -59.12% change (-107 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+16: -59.70% change (-80 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+2: -60.27% change (-88 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+11: -63.89% change (-92 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+5: -65.05% change (-67 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+4: -66.88% change (-103 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+22: -68.18% change (-75 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+9: -68.67% change (-57 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+15: -70.69% change (-164 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+1: -72.19% change (-135 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+6: -74.88% change (-155 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+17: -75.00% change (-96 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+13: -100.00% change (-97 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+44: -100.00% change (-1 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+48: -100.00% change (-2 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+211: -100.00% change (-1 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+43: -100.00% change (-2 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+42: -100.00% change (-1 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+72: -100.00% change (-1 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+
+215: -100.00% change (-1 courses)
+  Possible reasons for decrease:
+  - Shift in academic focus and priorities
+  - Consolidation or restructuring of programs
+  - Decreased student enrollment or interest
+

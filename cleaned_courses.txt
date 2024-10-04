@@ -1,0 +1,229 @@
+{'letter': 'A', 'code': 'ACCT', 'name': 'Accounting', 'rel_url': '/course-descriptions/acct/'}
+{'letter': 'A', 'code': 'ACC', 'name': 'Accounting - CPS', 'rel_url': '/course-descriptions/acc/'}
+{'letter': 'A', 'code': 'AVM', 'name': 'Advanced Manufacturing Systems - CPS', 'rel_url': '/course-descriptions/avm/'}
+{'letter': 'A', 'code': 'AFAM', 'name': 'African American Studies', 'rel_url': '/course-descriptions/afam/'}
+{'letter': 'A', 'code': 'AFCS', 'name': 'Africana Studies', 'rel_url': '/course-descriptions/afcs/'}
+{'letter': 'A', 'code': 'AFRS', 'name': 'African Studies', 'rel_url': '/course-descriptions/afrs/'}
+{'letter': 'A', 'code': 'AMSL', 'name': 'American Sign Language', 'rel_url': '/course-descriptions/amsl/'}
+{'letter': 'A', 'code': 'ALY', 'name': 'Analytics - CPS', 'rel_url': '/course-descriptions/aly/'}
+{'letter': 'A', 'code': 'ANTH', 'name': 'Anthropology', 'rel_url': '/course-descriptions/anth/'}
+{'letter': 'A', 'code': 'ANT', 'name': 'Anthropology - CPS', 'rel_url': '/course-descriptions/ant/'}
+{'letter': 'A', 'code': 'APL', 'name': 'Applied Logistics - CPS', 'rel_url': '/course-descriptions/apl/'}
+{'letter': 'A', 'code': 'ARAB', 'name': 'Arabic', 'rel_url': '/course-descriptions/arab/'}
+{'letter': 'A', 'code': 'ARCH', 'name': 'Architecture', 'rel_url': '/course-descriptions/arch/'}
+{'letter': 'A', 'code': 'ARMY', 'name': 'Army ROTC', 'rel_url': '/course-descriptions/army/'}
+{'letter': 'A', 'code': 'ART', 'name': 'Art - CPS', 'rel_url': '/course-descriptions/art/'}
+{'letter': 'A', 'code': 'ARTG', 'name': 'Art - Design', 'rel_url': '/course-descriptions/artg/'}
+{'letter': 'A', 'code': 'ARTF', 'name': 'Art - Fundamentals', 'rel_url': '/course-descriptions/artf/'}
+{'letter': 'A', 'code': 'ARTE', 'name': 'Art - General', 'rel_url': '/course-descriptions/arte/'}
+{'letter': 'A', 'code': 'ARTH', 'name': 'Art - History', 'rel_url': '/course-descriptions/arth/'}
+{'letter': 'A', 'code': 'ARTD', 'name': 'Art - Media Arts', 'rel_url': '/course-descriptions/artd/'}
+{'letter': 'A', 'code': 'AACE', 'name': 'Arts Administration and Cultural Entrepreneurship', 'rel_url': '/course-descriptions/aace/'}
+{'letter': 'A', 'code': 'ARTS', 'name': 'Art - Studio', 'rel_url': '/course-descriptions/arts/'}
+{'letter': 'A', 'code': 'ASNS', 'name': 'Asian Studies', 'rel_url': '/course-descriptions/asns/'}
+{'letter': 'B', 'code': 'BNSC', 'name': 'Behavioral Neuroscience', 'rel_url': '/course-descriptions/bnsc/'}
+{'letter': 'B', 'code': 'BIOC', 'name': 'Biochemistry', 'rel_url': '/course-descriptions/bioc/'}
+{'letter': 'B', 'code': 'BIOE', 'name': 'Bioengineering', 'rel_url': '/course-descriptions/bioe/'}
+{'letter': 'B', 'code': 'BINF', 'name': 'Bioinformatics', 'rel_url': '/course-descriptions/binf/'}
+{'letter': 'B', 'code': 'BIOL', 'name': 'Biology', 'rel_url': '/course-descriptions/biol/'}
+{'letter': 'B', 'code': 'BIO', 'name': 'Biology - CPS', 'rel_url': '/course-descriptions/bio/'}
+{'letter': 'B', 'code': 'BIOT', 'name': 'Biotechnology', 'rel_url': '/course-descriptions/biot/'}
+{'letter': 'B', 'code': 'BTC', 'name': 'Biotechnology - CPS', 'rel_url': '/course-descriptions/btc/'}
+{'letter': 'B', 'code': 'BUSN', 'name': 'Business Administration', 'rel_url': '/course-descriptions/busn/'}
+{'letter': 'C', 'code': 'EXSC', 'name': 'Cardiopulmonary and Exercise Science', 'rel_url': '/course-descriptions/exsc/'}
+{'letter': 'C', 'code': 'CHME', 'name': 'Chemical Engineering', 'rel_url': '/course-descriptions/chme/'}
+{'letter': 'C', 'code': 'CHEM', 'name': 'Chemistry and Chemical Biology', 'rel_url': '/course-descriptions/chem/'}
+{'letter': 'C', 'code': 'CHM', 'name': 'Chemistry - CPS', 'rel_url': '/course-descriptions/chm/'}
+{'letter': 'C', 'code': 'CHNS', 'name': 'Chinese', 'rel_url': '/course-descriptions/chns/'}
+{'letter': 'C', 'code': 'CIVE', 'name': 'Civil and Environmental Engineering', 'rel_url': '/course-descriptions/cive/'}
+{'letter': 'C', 'code': 'CED', 'name': 'Commerce and Economic Development - CPS', 'rel_url': '/course-descriptions/ced/'}
+{'letter': 'C', 'code': 'COMM', 'name': 'Communication Studies', 'rel_url': '/course-descriptions/comm/'}
+{'letter': 'C', 'code': 'CMN', 'name': 'Communication Studies - CPS', 'rel_url': '/course-descriptions/cmn/'}
+{'letter': 'C', 'code': 'CMMN', 'name': 'Communication Studies - CPS Specialty', 'rel_url': '/course-descriptions/cmmn/'}
+{'letter': 'C', 'code': 'CET', 'name': 'Computer Engineering Technology - CPS', 'rel_url': '/course-descriptions/cet/'}
+{'letter': 'C', 'code': 'CS', 'name': 'Computer Science', 'rel_url': '/course-descriptions/cs/'}
+{'letter': 'C', 'code': 'CSYE', 'name': 'Computer Systems Engineering', 'rel_url': '/course-descriptions/csye/'}
+{'letter': 'C', 'code': 'CMG', 'name': 'Construction Management - CPS', 'rel_url': '/course-descriptions/cmg/'}
+{'letter': 'C', 'code': 'COOP', 'name': 'Cooperative Education', 'rel_url': '/course-descriptions/coop/'}
+{'letter': 'C', 'code': 'COP', 'name': 'Cooperative Education - CPS', 'rel_url': '/course-descriptions/cop/'}
+{'letter': 'C', 'code': 'EXED', 'name': 'Cooperative/Experiential Education', 'rel_url': '/course-descriptions/exed/'}
+{'letter': 'C', 'code': 'EEAM', 'name': 'Co-op/Experiential Education in Arts, Media, and Design', 'rel_url': '/course-descriptions/eeam/'}
+{'letter': 'C', 'code': 'EEBA', 'name': 'Co-op/Experiential Education in Business', 'rel_url': '/course-descriptions/eeba/'}
+{'letter': 'C', 'code': 'EESC', 'name': 'Co-op/Experiential Education in Science', 'rel_url': '/course-descriptions/eesc/'}
+{'letter': 'C', 'code': 'EESH', 'name': 'Co-op/Experiential Education in Social Sciences and Humanities', 'rel_url': '/course-descriptions/eesh/'}
+{'letter': 'C', 'code': 'INNO', 'name': 'Corporate Innovation', 'rel_url': '/course-descriptions/inno/'}
+{'letter': 'C', 'code': 'CAEP', 'name': 'Counseling and Applied Educational Psychology', 'rel_url': '/course-descriptions/caep/'}
+{'letter': 'C', 'code': 'CRTE', 'name': 'Creative Technologies', 'rel_url': '/course-descriptions/crte/'}
+{'letter': 'C', 'code': 'CJS', 'name': 'Criminal Justice - CPS', 'rel_url': '/course-descriptions/cjs/'}
+{'letter': 'C', 'code': 'CRIM', 'name': 'Criminal Justice', 'rel_url': '/course-descriptions/crim/'}
+{'letter': 'C', 'code': 'CLTR', 'name': 'Culture', 'rel_url': '/course-descriptions/cltr/'}
+{'letter': 'C', 'code': 'CY', 'name': 'Cybersecurity', 'rel_url': '/course-descriptions/cy/'}
+{'letter': 'D', 'code': 'DA', 'name': 'Data Analytics', 'rel_url': '/course-descriptions/da/'}
+{'letter': 'D', 'code': 'DAMG', 'name': 'Data Architecture Management', 'rel_url': '/course-descriptions/damg/'}
+{'letter': 'D', 'code': 'DS', 'name': 'Data Science', 'rel_url': '/course-descriptions/ds/'}
+{'letter': 'D', 'code': 'DEAF', 'name': 'Deaf Studies', 'rel_url': '/course-descriptions/deaf/'}
+{'letter': 'D', 'code': 'DGM', 'name': 'Digital Media - CPS', 'rel_url': '/course-descriptions/dgm/'}
+{'letter': 'D', 'code': 'DGTR', 'name': 'Digital Transformation', 'rel_url': '/course-descriptions/dgtr/'}
+{'letter': 'E', 'code': 'ENVR', 'name': 'Earth and Environmental Sciences', 'rel_url': '/course-descriptions/envr/'}
+{'letter': 'E', 'code': 'ESC', 'name': 'Earth Sciences - CPS', 'rel_url': '/course-descriptions/esc/'}
+{'letter': 'E', 'code': 'EEMB', 'name': 'Ecology, Evolution, and Marine Biology', 'rel_url': '/course-descriptions/eemb/'}
+{'letter': 'E', 'code': 'ECN', 'name': 'Economics - CPS', 'rel_url': '/course-descriptions/ecn/'}
+{'letter': 'E', 'code': 'ECNM', 'name': 'Economics - CPS Specialty', 'rel_url': '/course-descriptions/ecnm/'}
+{'letter': 'E', 'code': 'ECON', 'name': 'Economics', 'rel_url': '/course-descriptions/econ/'}
+{'letter': 'E', 'code': 'EDUT', 'name': 'Education - California Prepared', 'rel_url': '/course-descriptions/edut/'}
+{'letter': 'E', 'code': 'EDU', 'name': 'Education - CPS', 'rel_url': '/course-descriptions/edu/'}
+{'letter': 'E', 'code': 'EDUC', 'name': 'Education', 'rel_url': '/course-descriptions/educ/'}
+{'letter': 'E', 'code': 'EECE', 'name': 'Electrical and Computer Engineering', 'rel_url': '/course-descriptions/eece/'}
+{'letter': 'E', 'code': 'EET', 'name': 'Electrical Engineering Technology - CPS', 'rel_url': '/course-descriptions/eet/'}
+{'letter': 'E', 'code': 'ENSY', 'name': 'Energy Systems', 'rel_url': '/course-descriptions/ensy/'}
+{'letter': 'E', 'code': 'ENCP', 'name': 'Engineering Cooperative Education', 'rel_url': '/course-descriptions/encp/'}
+{'letter': 'E', 'code': 'ENGR', 'name': 'Engineering Interdisciplinary', 'rel_url': '/course-descriptions/engr/'}
+{'letter': 'E', 'code': 'ENLR', 'name': 'Engineering Leadership', 'rel_url': '/course-descriptions/enlr/'}
+{'letter': 'E', 'code': 'EMGT', 'name': 'Engineering Management', 'rel_url': '/course-descriptions/emgt/'}
+{'letter': 'E', 'code': 'ESLG', 'name': 'English as a Second Language - CPS Specialty', 'rel_url': '/course-descriptions/eslg/'}
+{'letter': 'E', 'code': 'ESL', 'name': 'English as Second Language - CPS', 'rel_url': '/course-descriptions/esl/'}
+{'letter': 'E', 'code': 'ENG', 'name': 'English - CPS', 'rel_url': '/course-descriptions/eng/'}
+{'letter': 'E', 'code': 'ENGL', 'name': 'English', 'rel_url': '/course-descriptions/engl/'}
+{'letter': 'E', 'code': 'ENGW', 'name': 'English Writing', 'rel_url': '/course-descriptions/engw/'}
+{'letter': 'E', 'code': 'EAI', 'name': 'Enterprise Artificial Intelligence', 'rel_url': '/course-descriptions/eai/'}
+{'letter': 'E', 'code': 'ENTR', 'name': 'Entrepreneurship and Innovation', 'rel_url': '/course-descriptions/entr/'}
+{'letter': 'E', 'code': 'ENVS', 'name': 'Environmental Studies', 'rel_url': '/course-descriptions/envs/'}
+{'letter': 'E', 'code': 'EXRE', 'name': 'Extended Realities', 'rel_url': '/course-descriptions/exre/'}
+{'letter': 'F', 'code': 'FINA', 'name': 'Finance and Insurance', 'rel_url': '/course-descriptions/fina/'}
+{'letter': 'F', 'code': 'FIN', 'name': 'Finance - CPS', 'rel_url': '/course-descriptions/fin/'}
+{'letter': 'F', 'code': 'FSEM', 'name': 'First-Year Seminar', 'rel_url': '/course-descriptions/fsem/'}
+{'letter': 'F', 'code': 'FRNH', 'name': 'French', 'rel_url': '/course-descriptions/frnh/'}
+{'letter': 'G', 'code': 'GAME', 'name': 'Game Design', 'rel_url': '/course-descriptions/game/'}
+{'letter': 'G', 'code': 'GSND', 'name': 'Game Science and Design', 'rel_url': '/course-descriptions/gsnd/'}
+{'letter': 'G', 'code': 'GE', 'name': 'General Engineering', 'rel_url': '/course-descriptions/ge/'}
+{'letter': 'G', 'code': 'GET', 'name': 'General Engineering Technology - CPS', 'rel_url': '/course-descriptions/get/'}
+{'letter': 'G', 'code': 'GENS', 'name': 'General Studies', 'rel_url': '/course-descriptions/gens/'}
+{'letter': 'G', 'code': 'GIS', 'name': 'Geographic Information Systems - CPS', 'rel_url': '/course-descriptions/gis/'}
+{'letter': 'G', 'code': 'GRMN', 'name': 'German', 'rel_url': '/course-descriptions/grmn/'}
+{'letter': 'G', 'code': 'GST', 'name': 'Global Studies - CPS', 'rel_url': '/course-descriptions/gst/'}
+{'letter': 'G', 'code': 'GBST', 'name': 'Global Studies', 'rel_url': '/course-descriptions/gbst/'}
+{'letter': 'H', 'code': 'HINF', 'name': 'Health Informatics', 'rel_url': '/course-descriptions/hinf/'}
+{'letter': 'H', 'code': 'HMG', 'name': 'Health Management - CPS', 'rel_url': '/course-descriptions/hmg/'}
+{'letter': 'H', 'code': 'HSC', 'name': 'Health Science - CPS', 'rel_url': '/course-descriptions/hsc/'}
+{'letter': 'H', 'code': 'HSCI', 'name': 'Health Science', 'rel_url': '/course-descriptions/hsci/'}
+{'letter': 'H', 'code': 'HLTH', 'name': 'Health Science - Interdisciplinary', 'rel_url': '/course-descriptions/hlth/'}
+{'letter': 'H', 'code': 'HBRW', 'name': 'Hebrew', 'rel_url': '/course-descriptions/hbrw/'}
+{'letter': 'H', 'code': 'HST', 'name': 'History - CPS', 'rel_url': '/course-descriptions/hst/'}
+{'letter': 'H', 'code': 'HSTY', 'name': 'History - CPS Specialty', 'rel_url': '/course-descriptions/hsty/'}
+{'letter': 'H', 'code': 'HIST', 'name': 'History', 'rel_url': '/course-descriptions/hist/'}
+{'letter': 'H', 'code': 'HLS', 'name': 'Homeland Security - CPS', 'rel_url': '/course-descriptions/hls/'}
+{'letter': 'H', 'code': 'HONR', 'name': 'Honors Program', 'rel_url': '/course-descriptions/honr/'}
+{'letter': 'H', 'code': 'HRM', 'name': 'Human Resources Management - CPS', 'rel_url': '/course-descriptions/hrm/'}
+{'letter': 'H', 'code': 'HRMG', 'name': 'Human Resources Management', 'rel_url': '/course-descriptions/hrmg/'}
+{'letter': 'H', 'code': 'HSV', 'name': 'Human Services - CPS', 'rel_url': '/course-descriptions/hsv/'}
+{'letter': 'H', 'code': 'HUSV', 'name': 'Human Services', 'rel_url': '/course-descriptions/husv/'}
+{'letter': 'I', 'code': 'IE', 'name': 'Industrial Engineering', 'rel_url': '/course-descriptions/ie/'}
+{'letter': 'I', 'code': 'IS', 'name': 'Information Science', 'rel_url': '/course-descriptions/is/'}
+{'letter': 'I', 'code': 'INFO', 'name': 'Information Systems Program', 'rel_url': '/course-descriptions/info/'}
+{'letter': 'I', 'code': 'ITC', 'name': 'Information Technology - CPS', 'rel_url': '/course-descriptions/itc/'}
+{'letter': 'I', 'code': 'INS', 'name': 'Insurance - CPS', 'rel_url': '/course-descriptions/ins/'}
+{'letter': 'I', 'code': 'INT', 'name': 'Interdisciplinary Studies - CPS', 'rel_url': '/course-descriptions/int/'}
+{'letter': 'I', 'code': 'INAM', 'name': 'Interdisciplinary Studies in Arts, Media, and Design', 'rel_url': '/course-descriptions/inam/'}
+{'letter': 'I', 'code': 'INSC', 'name': 'Interdisciplinary Studies in Science', 'rel_url': '/course-descriptions/insc/'}
+{'letter': 'I', 'code': 'INSH', 'name': 'Interdisciplinary Studies in Social Sciences and Humanities', 'rel_url': '/course-descriptions/insh/'}
+{'letter': 'I', 'code': 'INMI', 'name': 'Interdisciplinary Studies - Mills College at Northeastern', 'rel_url': '/course-descriptions/inmi/'}
+{'letter': 'I', 'code': 'INPR', 'name': 'Interdisciplinary Studies - Office of the Provost', 'rel_url': '/course-descriptions/inpr/'}
+{'letter': 'I', 'code': 'INTL', 'name': 'International Affairs', 'rel_url': '/course-descriptions/intl/'}
+{'letter': 'I', 'code': 'INTB', 'name': 'International Business', 'rel_url': '/course-descriptions/intb/'}
+{'letter': 'I', 'code': 'INTP', 'name': 'Interpreting', 'rel_url': '/course-descriptions/intp/'}
+{'letter': 'I', 'code': 'ITLN', 'name': 'Italian', 'rel_url': '/course-descriptions/itln/'}
+{'letter': 'J', 'code': 'JPNS', 'name': 'Japanese', 'rel_url': '/course-descriptions/jpns/'}
+{'letter': 'J', 'code': 'JWSS', 'name': 'Jewish Studies', 'rel_url': '/course-descriptions/jwss/'}
+{'letter': 'J', 'code': 'JRNL', 'name': 'Journalism', 'rel_url': '/course-descriptions/jrnl/'}
+{'letter': 'K', 'code': 'KORE', 'name': 'Korean', 'rel_url': '/course-descriptions/kore/'}
+{'letter': 'L', 'code': 'LARC', 'name': 'Landscape Architecture', 'rel_url': '/course-descriptions/larc/'}
+{'letter': 'L', 'code': 'LACS', 'name': 'Latin American and Caribbean Studies', 'rel_url': '/course-descriptions/lacs/'}
+{'letter': 'L', 'code': 'LWP', 'name': 'Law and Policy - CPS', 'rel_url': '/course-descriptions/lwp/'}
+{'letter': 'L', 'code': 'LPSC', 'name': 'Law and Public Policy', 'rel_url': '/course-descriptions/lpsc/'}
+{'letter': 'L', 'code': 'LW', 'name': 'Law (for Non-Law School Students)', 'rel_url': '/course-descriptions/lw/'}
+{'letter': 'L', 'code': 'LAW', 'name': 'Law', 'rel_url': '/course-descriptions/law/'}
+{'letter': 'L', 'code': 'LDR', 'name': 'Leadership Studies - CPS', 'rel_url': '/course-descriptions/ldr/'}
+{'letter': 'L', 'code': 'LS', 'name': 'Legal Studies', 'rel_url': '/course-descriptions/ls/'}
+{'letter': 'L', 'code': 'LST', 'name': 'Liberal Studies - CPS', 'rel_url': '/course-descriptions/lst/'}
+{'letter': 'L', 'code': 'LING', 'name': 'Linguistics', 'rel_url': '/course-descriptions/ling/'}
+{'letter': 'M', 'code': 'MGT', 'name': 'Management - CPS', 'rel_url': '/course-descriptions/mgt/'}
+{'letter': 'M', 'code': 'MISM', 'name': 'Management Information Systems', 'rel_url': '/course-descriptions/mism/'}
+{'letter': 'M', 'code': 'MGMT', 'name': 'Management', 'rel_url': '/course-descriptions/mgmt/'}
+{'letter': 'M', 'code': 'MGSC', 'name': 'Management Science', 'rel_url': '/course-descriptions/mgsc/'}
+{'letter': 'M', 'code': 'MECN', 'name': 'Managerial Economics', 'rel_url': '/course-descriptions/mecn/'}
+{'letter': 'M', 'code': 'MKT', 'name': 'Marketing - CPS', 'rel_url': '/course-descriptions/mkt/'}
+{'letter': 'M', 'code': 'MKTG', 'name': 'Marketing', 'rel_url': '/course-descriptions/mktg/'}
+{'letter': 'M', 'code': 'MATL', 'name': 'Materials Engineering', 'rel_url': '/course-descriptions/matl/'}
+{'letter': 'M', 'code': 'MTH', 'name': 'Mathematics - CPS', 'rel_url': '/course-descriptions/mth/'}
+{'letter': 'M', 'code': 'MATM', 'name': 'Mathematics - CPS Specialty', 'rel_url': '/course-descriptions/matm/'}
+{'letter': 'M', 'code': 'MATH', 'name': 'Mathematics', 'rel_url': '/course-descriptions/math/'}
+{'letter': 'M', 'code': 'MEIE', 'name': 'Mechanical and Industrial Engineering', 'rel_url': '/course-descriptions/meie/'}
+{'letter': 'M', 'code': 'ME', 'name': 'Mechanical Engineering', 'rel_url': '/course-descriptions/me/'}
+{'letter': 'M', 'code': 'MET', 'name': 'Mechanical Engineering Technology - CPS', 'rel_url': '/course-descriptions/met/'}
+{'letter': 'M', 'code': 'MSCR', 'name': 'Media and Screen Studies', 'rel_url': '/course-descriptions/mscr/'}
+{'letter': 'M', 'code': 'MSCI', 'name': 'Medical Sciences', 'rel_url': '/course-descriptions/msci/'}
+{'letter': 'M', 'code': 'MILS', 'name': 'Mills College Transfer', 'rel_url': '/course-descriptions/mils/'}
+{'letter': 'M', 'code': 'MUS', 'name': 'Music - CPS', 'rel_url': '/course-descriptions/mus/'}
+{'letter': 'M', 'code': 'MUSI', 'name': 'Music Industry', 'rel_url': '/course-descriptions/musi/'}
+{'letter': 'M', 'code': 'MUSC', 'name': 'Music', 'rel_url': '/course-descriptions/musc/'}
+{'letter': 'M', 'code': 'MUST', 'name': 'Music Technology', 'rel_url': '/course-descriptions/must/'}
+{'letter': 'N', 'code': 'NNMD', 'name': 'Nanomedicine', 'rel_url': '/course-descriptions/nnmd/'}
+{'letter': 'N', 'code': 'NETS', 'name': 'Network Science', 'rel_url': '/course-descriptions/nets/'}
+{'letter': 'N', 'code': 'NPM', 'name': 'Nonprofit Management - CPS', 'rel_url': '/course-descriptions/npm/'}
+{'letter': 'N', 'code': 'NRSG', 'name': 'Nursing', 'rel_url': '/course-descriptions/nrsg/'}
+{'letter': 'N', 'code': 'NTR', 'name': 'Nutrition - CPS', 'rel_url': '/course-descriptions/ntr/'}
+{'letter': 'O', 'code': 'OR', 'name': 'Operations Research', 'rel_url': '/course-descriptions/or/'}
+{'letter': 'O', 'code': 'ORGB', 'name': 'Organizational Behavior', 'rel_url': '/course-descriptions/orgb/'}
+{'letter': 'P', 'code': 'PHSC', 'name': 'Pharmaceutical Science', 'rel_url': '/course-descriptions/phsc/'}
+{'letter': 'P', 'code': 'PMST', 'name': 'Pharmaceutics', 'rel_url': '/course-descriptions/pmst/'}
+{'letter': 'P', 'code': 'PMCL', 'name': 'Pharmacology', 'rel_url': '/course-descriptions/pmcl/'}
+{'letter': 'P', 'code': 'PHMD', 'name': 'Pharmacy Practice', 'rel_url': '/course-descriptions/phmd/'}
+{'letter': 'P', 'code': 'PHDL', 'name': 'PhD Experiential Leadership', 'rel_url': '/course-descriptions/phdl/'}
+{'letter': 'P', 'code': 'PHL', 'name': 'Philosophy - CPS', 'rel_url': '/course-descriptions/phl/'}
+{'letter': 'P', 'code': 'PHLS', 'name': 'Philosophy - CPS Specialty', 'rel_url': '/course-descriptions/phls/'}
+{'letter': 'P', 'code': 'PHIL', 'name': 'Philosophy', 'rel_url': '/course-descriptions/phil/'}
+{'letter': 'P', 'code': 'PTH', 'name': 'Physical Therapy - CPS', 'rel_url': '/course-descriptions/pth/'}
+{'letter': 'P', 'code': 'PT', 'name': 'Physical Therapy', 'rel_url': '/course-descriptions/pt/'}
+{'letter': 'P', 'code': 'PA', 'name': 'Physician Assistant', 'rel_url': '/course-descriptions/pa/'}
+{'letter': 'P', 'code': 'PHY', 'name': 'Physics - CPS', 'rel_url': '/course-descriptions/phy/'}
+{'letter': 'P', 'code': 'PHYS', 'name': 'Physics', 'rel_url': '/course-descriptions/phys/'}
+{'letter': 'P', 'code': 'POL', 'name': 'Political Science - CPS', 'rel_url': '/course-descriptions/pol/'}
+{'letter': 'P', 'code': 'PLSC', 'name': 'Political Science - CPS Specialty', 'rel_url': '/course-descriptions/plsc/'}
+{'letter': 'P', 'code': 'POLS', 'name': 'Political Science', 'rel_url': '/course-descriptions/pols/'}
+{'letter': 'P', 'code': 'PORT', 'name': 'Portuguese', 'rel_url': '/course-descriptions/port/'}
+{'letter': 'P', 'code': 'PJM', 'name': 'Project Management - CPS', 'rel_url': '/course-descriptions/pjm/'}
+{'letter': 'P', 'code': 'PSY', 'name': 'Psychology - CPS', 'rel_url': '/course-descriptions/psy/'}
+{'letter': 'P', 'code': 'PSYC', 'name': 'Psychology', 'rel_url': '/course-descriptions/psyc/'}
+{'letter': 'P', 'code': 'PHTH', 'name': 'Public Health', 'rel_url': '/course-descriptions/phth/'}
+{'letter': 'P', 'code': 'PPUA', 'name': 'Public Policy and Urban Affairs', 'rel_url': '/course-descriptions/ppua/'}
+{'letter': 'P', 'code': 'PBR', 'name': 'Public Relations - CPS', 'rel_url': '/course-descriptions/pbr/'}
+{'letter': 'P', 'code': 'PREL', 'name': 'Public Relations', 'rel_url': '/course-descriptions/prel/'}
+{'letter': 'R', 'code': 'RGA', 'name': 'Regulatory Affairs - CPS', 'rel_url': '/course-descriptions/rga/'}
+{'letter': 'R', 'code': 'RFA', 'name': 'Regulatory Affairs of Food - CPS', 'rel_url': '/course-descriptions/rfa/'}
+{'letter': 'R', 'code': 'RMS', 'name': 'Remote Sensing - CPS', 'rel_url': '/course-descriptions/rms/'}
+{'letter': 'R', 'code': 'RPT', 'name': 'Respiratory Therapy - CPS', 'rel_url': '/course-descriptions/rpt/'}
+{'letter': 'R', 'code': 'RSSN', 'name': 'Russian', 'rel_url': '/course-descriptions/rssn/'}
+{'letter': 'S', 'code': 'SMT', 'name': 'Sales Management - CPS', 'rel_url': '/course-descriptions/smt/'}
+{'letter': 'S', 'code': 'SMFA', 'name': 'School of the Museum of Fine Arts', 'rel_url': '/course-descriptions/smfa/'}
+{'letter': 'S', 'code': 'SOC', 'name': 'Sociology - CPS', 'rel_url': '/course-descriptions/soc/'}
+{'letter': 'S', 'code': 'SCLY', 'name': 'Sociology - CPS Specialty', 'rel_url': '/course-descriptions/scly/'}
+{'letter': 'S', 'code': 'SOCL', 'name': 'Sociology', 'rel_url': '/course-descriptions/socl/'}
+{'letter': 'S', 'code': 'SPNS', 'name': 'Spanish', 'rel_url': '/course-descriptions/spns/'}
+{'letter': 'S', 'code': 'SLPA', 'name': 'Speech-Language Pathology and Audiology', 'rel_url': '/course-descriptions/slpa/'}
+{'letter': 'S', 'code': 'SIA', 'name': 'Strategic Intelligence and Analysis - CPS', 'rel_url': '/course-descriptions/sia/'}
+{'letter': 'S', 'code': 'STRT', 'name': 'Strategy', 'rel_url': '/course-descriptions/strt/'}
+{'letter': 'S', 'code': 'ABRD', 'name': 'Study Abroad', 'rel_url': '/course-descriptions/abrd/'}
+{'letter': 'S', 'code': 'ABRB', 'name': 'Study Abroad - Business', 'rel_url': '/course-descriptions/abrb/'}
+{'letter': 'S', 'code': 'ABRC', 'name': 'Study Abroad - CPS Specialty', 'rel_url': '/course-descriptions/abrc/'}
+{'letter': 'S', 'code': 'ABRL', 'name': 'Study Abroad - Law', 'rel_url': '/course-descriptions/abrl/'}
+{'letter': 'S', 'code': 'ABRS', 'name': 'Study Abroad - Science', 'rel_url': '/course-descriptions/abrs/'}
+{'letter': 'S', 'code': 'ABRH', 'name': 'Study Abroad - Social Sciences and Humanities', 'rel_url': '/course-descriptions/abrh/'}
+{'letter': 'S', 'code': 'ABRU', 'name': 'Study USA', 'rel_url': '/course-descriptions/abru/'}
+{'letter': 'S', 'code': 'SCHM', 'name': 'Supply Chain Management', 'rel_url': '/course-descriptions/schm/'}
+{'letter': 'S', 'code': 'SBSY', 'name': 'Sustainable Building Systems', 'rel_url': '/course-descriptions/sbsy/'}
+{'letter': 'S', 'code': 'SUEN', 'name': 'Sustainable Urban Environments', 'rel_url': '/course-descriptions/suen/'}
+{'letter': 'T', 'code': 'TCC', 'name': 'Technical Communications - CPS', 'rel_url': '/course-descriptions/tcc/'}
+{'letter': 'T', 'code': 'TELR', 'name': 'Technology Leadership', 'rel_url': '/course-descriptions/telr/'}
+{'letter': 'T', 'code': 'TELE', 'name': 'Telecommunication Systems', 'rel_url': '/course-descriptions/tele/'}
+{'letter': 'T', 'code': 'THTR', 'name': 'Theatre', 'rel_url': '/course-descriptions/thtr/'}
+{'letter': 'W', 'code': 'WMNS', 'name': 'Women’s, Gender, and Sexuality Studies', 'rel_url': '/course-descriptions/wmns/'}
