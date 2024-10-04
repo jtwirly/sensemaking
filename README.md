@@ -53,3 +53,9 @@ https://classroom.github.com/a/MAgpvTrm
 - [Chart.js Official Website](https://www.chartjs.org/)
 - [Google Charts Official Website](https://developers.google.com/chart/)
 - [D3.js Official Website](https://d3js.org/)
+  
+## Visualizations
+![wordcloud_1996](https://github.com/user-attachments/assets/776cfde8-caeb-4e74-88f1-50507607c297)
+![wordcloud_2024](https://github.com/user-attachments/assets/c988d244-2a82-49f5-aabb-cdd7c6f50709)
+![top_words_comparison](https://github.com/user-attachments/assets/74425229-3345-4282-a6ba-294e9ec941d2)
+![department_changes](https://github.com/user-attachments/assets/dbbe8002-c546-46c0-8c05-ca1839c143ae)
